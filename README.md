@@ -36,7 +36,7 @@ The website will display on the chosen localhost in the following manner:
 
 
 ## Contributing
-Currently this project can be cloned but no contributions can be added to this repository by externals.
+Currently this project can be cloned but no contributions can be added to this repository by externals due to the fact that it is a graded college project.
 
 ## Credits
 * Knowledge for this project was acquired in the Web Systems and Technologies course taught by @denn1s. 

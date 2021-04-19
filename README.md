@@ -14,7 +14,7 @@ This is the first project of the Web Systems and Technologies class of the first
 1. Run `git clone https://github.com/PingMaster99/WebProject1.git` or clone this repository via a GUI. 
 2. Open the terminal and navigate to the installation directory `cd <directory>`. Example: `cd \mnt\c\installation`
 3. Run `npm install` to install all the dependencies
-4. To build the server-side rendered app run `npm run build-server` then, press ctrl + C once it's done and run `npm run dev`. The final result should look like this:   ![image](https://user-images.githubusercontent.com/59905458/115188088-a0a0be80-a0a1-11eb-87e1-94090ad94a52.png)
+4. To build the server-side rendered app run `npm run build-server` then, press ctrl + C once it's done and run `npm run dev`. The final result should look like this:     ![image](https://user-images.githubusercontent.com/59905458/115188088-a0a0be80-a0a1-11eb-87e1-94090ad94a52.png)
 5. Open your web browser and type http://localhost:3006/ in the address bar.
 6. To run with an edit-firendly environment (that includes ESLint to check .js files) use the command: `npm run start`. 
 7. Open your web browser and type http://localhost:8080/ in the address bar.
@@ -22,7 +22,7 @@ This is the first project of the Web Systems and Technologies class of the first
 ## Usage
 Note that you can run 4 and 6 simultaneously using two command windows. Also note that localhost:3006 won't display changes until you build it again, while localhost:8080 will display changes you make on the editor, so the latter is preferred if you want to test different functionalities or graphic changes. 
 
-To make changes, you can edit the components in the Components folder inside src: 
+To make changes, you can edit the components in the Components folder inside src:   
 ![image](https://user-images.githubusercontent.com/59905458/115188689-83b8bb00-a0a2-11eb-908c-02a29cdb2e75.png)
 
 If there are any linter errors while running the environment described on 4, you'll be faced with a screen like this:   

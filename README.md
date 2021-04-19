@@ -46,7 +46,7 @@ Currently this project can be cloned but no contributions can be added to this r
 
 
 ## License
-MIT
+MIT  
 All images used on this project belong to Kurzgesagt.
 
 

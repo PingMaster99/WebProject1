@@ -14,7 +14,7 @@ This is the first project of the Web Systems and Technologies class of the first
 1. Run `git clone https://github.com/PingMaster99/WebProject1.git` or clone this repository via a GUI. 
 2. Open the terminal and navigate to the installation directory `cd <directory>`. Example: `cd \mnt\c\installation`
 3. Run `npm install` to install all the dependencies
-4. To build the server-side rendered app run `npm run build-server` then, press ctrl + C once it's done and run `npm run dev`. The final result should look like this:     ![image](https://user-images.githubusercontent.com/59905458/115188088-a0a0be80-a0a1-11eb-87e1-94090ad94a52.png)
+4. To build the server-side rendered app run `npm run build-server` then, press ctrl + C once it's done and run `npm run dev`. The final result should look like this:  ![image](https://user-images.githubusercontent.com/59905458/115188088-a0a0be80-a0a1-11eb-87e1-94090ad94a52.png)
 5. Open your web browser and type http://localhost:3006/ in the address bar.
 6. To run with an edit-firendly environment (that includes ESLint to check .js files) use the command: `npm run start`. 
 7. Open your web browser and type http://localhost:8080/ in the address bar.

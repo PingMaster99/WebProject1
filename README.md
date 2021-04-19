@@ -25,7 +25,7 @@ Note that you can run 4 and 6 simultaneously using two command windows. Also not
 To make changes, you can edit the components in the Components folder inside src:   
 ![image](https://user-images.githubusercontent.com/59905458/115188689-83b8bb00-a0a2-11eb-908c-02a29cdb2e75.png)
 
-If there are any linter errors while running the environment described on 4, you'll be faced with a screen like this:   
+If there are any linter errors while running the environment described on installation, step 4, you'll be faced with a screen like this:   
 ![image](https://user-images.githubusercontent.com/59905458/115188872-d003fb00-a0a2-11eb-9339-dc3956ed90ed.png)
 
 If no errors are present, you'll be faced with a successful compilation:  

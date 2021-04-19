@@ -1,0 +1,29 @@
+.youtubeContainer {
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.youtubeElements {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.planetGraphic {
+    height: 18.125rem;
+    margin: 3rem 0;
+    max-height: 30vw;
+}
+
+.youtubeTitle {
+    margin: 3.5em 0 0 0;
+}
+
+.youtubeParagraph {
+    padding-bottom: 3rem;
+}
+

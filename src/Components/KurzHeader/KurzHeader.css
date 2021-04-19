@@ -1,0 +1,34 @@
+.header {
+    background-color: #111032;
+    margin-top: 0;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    top: 0;
+    align-items: center;
+}
+
+.mainLogo {
+    height: 80%;
+    padding: 1rem 0;
+    margin: 0 3rem 0 1rem;
+}
+
+.barComponent{
+    font-size: 18px;
+    margin-right: 1.7rem;
+    font-weight: 0;
+}
+
+#youtubeBarElement:after{
+    background-color: white;
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(1);
+    height: 0.1em;
+    bottom: 0;
+    left: 0;
+    transform-origin: bottom left;
+}
+

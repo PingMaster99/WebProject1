@@ -1,0 +1,43 @@
+.bottomBar {
+    background-color: #111032;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 1%;
+}
+
+.barContainer {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 1.3rem;
+}
+
+.socialMediaContainer {
+    display: flex;
+}
+
+
+.socialImage {
+    margin: 0 0.1rem;
+    padding: 1.5rem 0.2vw;
+    width: 2.1vw;
+    min-width: 2rem;
+    max-width: 4rem;
+    transition: transform 0.3s;
+}
+
+.socialImage:hover{
+    transform: translate(0, -0.5rem);
+}
+
+.bottomAnchor {
+    padding-top: 1rem;
+    font-size: 0.95rem;
+    font-weight: 0;
+    margin-right: 2rem;
+}
+
+

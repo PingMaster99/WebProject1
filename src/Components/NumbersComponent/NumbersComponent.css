@@ -1,0 +1,67 @@
+.numbersContainer {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    padding: 1rem 0;
+    margin: 0;
+}
+
+h4 {
+    color: white
+}
+
+.numberImageContainer {
+    position: relative;
+
+}
+
+.numbersImage {
+    padding: 0 8% 7rem 0;
+    width: 36.5rem;
+    transform: translate(-4rem);
+    margin: 0;
+}
+
+.dataContainer {
+    position: absolute;
+    font-size: 1rem;
+
+}
+
+.dataContainer h3{
+    font-size: 2.3rem;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.dataContainer h4 {
+    padding-left: 0.1rem;
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+
+}
+
+#producedVideos {
+    left: 0;
+    top: 0;
+    transform: translate(6.7em, 2em);
+}
+
+#subscribers {
+    top: 0;
+    right: 0;
+    transform: translate(9.5em, 2em);
+}
+
+#views {
+    bottom: 0;
+    left: 50%;
+    transform: translate(2em, -7em);
+}

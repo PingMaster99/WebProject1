@@ -1,0 +1,71 @@
+h1 {
+    font-size: min(38px, 4.5vw);
+
+    font-family: "Maison Neue Demi","Maison Neue Book","Helvetica Neue",Helvetica,Arial,sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    letter-spacing: 0.1em;
+    line-height: 1.2em;
+    color: white;
+    font-weight: 600;
+    margin: 1.5em 0;
+}
+
+h3 {
+    color: white;
+    font-family: "Maison Neue Book","Helvetica Neue",Helvetica,Arial,sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h4 {
+    color: white;
+    font-family: "Maison Neue Book","Helvetica Neue",Helvetica,Arial,sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 10;
+}
+
+p {
+    font-family: "Maison Neue Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+    line-height: 1.35em;
+    letter-spacing: 0.015em;
+    font-weight: 0;
+    word-wrap: break-word;
+}
+
+a {
+    font-family: "Maison Neue Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+
+.barComponent, .bottomAnchor{
+    letter-spacing: 0.04em;
+    font-family: "Maison Neue Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+    font-weight: 510;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+}
+
+
+.barComponent:after, .bottomAnchor:after {
+    background-color: white;
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 0.1em;
+    bottom: 0;
+    left: 0;
+    transform-origin: bottom left;
+    transition: transform 0.25s;
+}
+
+.barComponent:hover:after, .bottomAnchor:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+
+.youtubeParagraph, .cooperateParagraph {
+    font-size:min(calc(9px + 1vw), 1.2rem);
+    max-width: 38rem;
+    margin: 0 7rem;
+}

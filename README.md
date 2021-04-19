@@ -22,7 +22,7 @@ This is the first project of the Web Systems and Technologies class of the first
 ## Usage
 Note that you can run 4 and 6 simultaneously using two command windows. Also note that localhost:3006 won't display changes until you build it again, while localhost:8080 will display changes you make on the editor, so the latter is preferred if you want to test different functionalities or test styles. 
 
-To make changes, you can edit the components in the Components folder inside src:   
+To make changes, you can edit the files inside src (note that most are inside the Components folder):   
 ![image](https://user-images.githubusercontent.com/59905458/115188689-83b8bb00-a0a2-11eb-908c-02a29cdb2e75.png)
 
 If there are any linter errors while running the environment described on installation, step 4, you'll be faced with a screen like this:   

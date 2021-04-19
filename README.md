@@ -19,7 +19,7 @@ This is the first project of the Web Systems and Technologies class of the first
 6. To run with an edit-firendly environment (that includes ESLint to check .js files) use the command: `npm run start`. 
 7. Open your web browser and type http://localhost:8080/ in the address bar.
 
-The build for the environments will be outputted to the dist folder. `npm run build-server` generates the server-build folder with an index.js file with its data. 
+The build for both environments will be outputted to the dist folder. `npm run build-server` generates the server-build folder with an index.js file with its data. 
 
 ## Usage
 Note that you can run 4 and 6 simultaneously using two command windows. Also note that localhost:3006 won't display changes until you build it again, while localhost:8080 will display changes you make on the editor, so the latter is preferred if you want to test different functionalities or test styles. 

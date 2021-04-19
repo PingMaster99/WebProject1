@@ -41,7 +41,7 @@ Currently this project can be cloned but no contributions can be added to this r
 ## Credits
 * Knowledge for this project was acquired in the Web Systems and Technologies course taught by @denn1s. 
 * SSR implementation was based on https://www.digitalocean.com/community/tutorials/react-server-side-rendering and https://www.youtube.com/watch?v=aHVoremdGeQ
-* Website replicated: https://kurzgesagt.org/youtube/. (This is a college project and does not intend to do anything illegal with the replica).
+* Website replicated: https://kurzgesagt.org/youtube/ (this is a college project and does not intend to do anything illegal with the replica).
 * A project by PingMaster99
 
 
@@ -49,6 +49,8 @@ Currently this project can be cloned but no contributions can be added to this r
 MIT  
 All images used on this project belong to Kurzgesagt.
 
+
+Thank you for reading this README! :)
 
 
 
